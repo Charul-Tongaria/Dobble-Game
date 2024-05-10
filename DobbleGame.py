@@ -22,6 +22,12 @@ def find_matching_symbol(cards):
 def print_cards(cards, matching_symbol, index1, index2):
     """Print the cards."""
     design = [
+
+        # "+-----+ {card[0][0]} +-----+" 
+        # "|                          |"
+        # "+-----+ {card[1][0]} +-----+"
+    
+        
         "+-----+  +-----+",
         "|     |  |     |",
         f"|  {cards[0][0]}  |  |  {cards[1][0]}  |",
