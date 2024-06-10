@@ -21,14 +21,13 @@ Here're some of the project's best features:
 
 <p>1. Clone the repository</p>
 
-<h2>Like my work?</h2>
-
-If you encounter any problems or have questions about this project please feel free to open an issue on GitHub.
 
 ```
 git clone https://github.com/Charul-Tongaria/Dobble-Game.git
 ```
+<h2>Like my work?</h2>
 
+If you encounter any problems or have questions about this project please feel free to open an issue on GitHub.
   
   
 <h2>💻 Built with</h2>
